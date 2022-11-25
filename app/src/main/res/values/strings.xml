@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Note App V1</string>
+    <string name="settings">Settings</string>
+    <string name="button_word">Press the Button on the bottom right to add a new note!</string>
+
+    <string name="confirm_del">Confirm Deletion</string>
+    <string name="del_message">Are you sure you want tod delete this note?</string>
+
+
+
+    <string name="shareto">Share to:</string>
+    <string name="new_note">New Note</string>
+    <string name="note">Note</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="sort">sort</string>
+</resources>
